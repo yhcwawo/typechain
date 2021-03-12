@@ -1,3 +1,3 @@
 ## Typechain 
 
-blockchain project with typescript
+blockchain toy project with typescript
