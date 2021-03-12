@@ -1,0 +1,25 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "blockchain with typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node dist/index.js\" " 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhcwawo/typechain.git"
+  },
+  "author": "yhc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhcwawo/typechain/issues"
+  },
+  "homepage": "https://github.com/yhcwawo/typechain#readme",
+  "dependencies": {
+    "tsc-watch": "^4.2.9"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
